@@ -1,4 +1,4 @@
-# hg-2-alfa
+# hg-2-Charlie
 
 Practica team 4 - Charlie
 
